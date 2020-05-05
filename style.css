@@ -1,0 +1,37 @@
+.center{
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.thank{
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-size: 50px;
+    
+  outline-style: bold;
+    color:darkorchid ;
+}
+fieldset{
+    -moz-text-size-adjust: initial;
+    background-color:darkorchid;
+}
+p{
+    color: ivory;
+}
+td{
+    color: ivory;
+}
+th{
+    color: ivory;
+}
+.h1{
+    text-decoration: underline;
+}
+#go{
+    font-size: 75PX;
+    color: darkred;
+}
